@@ -4,7 +4,9 @@
 
 I made 
 
-Skills: c++
+# Skills
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 - 🌱 I’m currently learning many things 
 - 📫 How to reach me: asdzxc@ 
