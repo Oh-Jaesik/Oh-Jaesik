@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, my name is jae
+#### I am stu
+![I am stu](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Oh-Jaesik/Oh-Jaesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made 
 
-Here are some ideas to get you started:
+Skills: c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning many things 
+- 📫 How to reach me: asdzxc@ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oh-Jaesik)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jaesik)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-Jaesik&show_icons=true)  
+
