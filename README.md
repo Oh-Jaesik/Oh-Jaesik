@@ -32,6 +32,8 @@ Unity's **Mirror** networking library for multiplayer game development
   A Unity-based multiplayer survival game  
   Developed with Mirror for real-time client-server communication
 
+  https://console.firebase.google.com/project/undeadsurvivor-77af8/database/undeadsurvivor-77af8-default-rtdb/data/~2F?hl=ko&fb_gclid=CjwKCAjw9anCBhAWEiwAqBJ-c3dPeKeimWde2J2e_5O9scjzMEkAV4DJyp77cFrcZjV6ZaiSR2UM_BoCHkYQAvD_BwE
+
 ---
 
 📫 **Contact Me**
